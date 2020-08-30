@@ -1,2 +1,4 @@
 # Tryg2o
-I tried g2o library.
+
+[g2o](https://github.com/RainerKuemmerle/g2o)をインストールして曲線フィッティングを試した
+
